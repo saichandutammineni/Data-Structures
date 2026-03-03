@@ -1,22 +1,19 @@
 class Solution {
-    private void getWays(int[] nums, int target, List<List<Integer>> res, int index, int sum, List<Integer> ll){
-        if(sum==target && index==nums.length){
-            res.add(new ArrayList<>(ll));
-            return;
-        }
-        else if(index==nums.length){
+    int count=0;
+    private void getWays(int[] nums, int target, int index, int sum){
+        if(index==nums.length){
+            if(sum==target){
+                count++;
+            }
             return;
         }
 
-        ll.add(index);
-        getWays(nums, target, res, index+1, sum-(nums[index]), ll);
-        ll.remove(ll.size()-1);
-        getWays(nums, target, res, index+1, sum+nums[index], ll);
+        getWays(nums, target, index+1, sum-(nums[index]));
+        getWays(nums, target, index+1, sum+nums[index]);
     }
     public int findTargetSumWays(int[] nums, int target) {
-        List<List<Integer>> res=new ArrayList<>();
-        List<Integer> ll=new ArrayList<>();
-        getWays(nums, target, res, 0, 0, ll);
-        return res.size();
+        
+        getWays(nums, target, 0, 0);
+        return count;
     }
 }
