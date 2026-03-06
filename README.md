@@ -64,6 +64,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0146-lru-cache) |
 ## Design
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
