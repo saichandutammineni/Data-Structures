@@ -109,6 +109,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
