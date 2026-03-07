@@ -1,5 +1,4 @@
 class Solution {
-
     private int[] getLps(String pattern){
         // set two variables at start
         int i=1, j=0; // j can also be called as length of prefix
@@ -22,7 +21,6 @@ class Solution {
             }
         }
         return lps;
-
     }
     public int strStr(String haystack, String needle) {
         int[] lps=getLps(needle);
@@ -34,11 +32,14 @@ class Solution {
                 j++;
                 if(j==needle.length()){
                     return i-j;
+                    // if need to find all indices
+                    // list.add(i-j);
+					// j=lps[j-1]; // reset
                 }
             }
             else{
                 if(j!=0){
-                    j=lps[j-1];
+                    j=lps[j-1]; // reset j back
                 }
                 else{
                     i++;
