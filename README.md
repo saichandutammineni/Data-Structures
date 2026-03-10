@@ -82,6 +82,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -98,6 +99,7 @@
 | [0015-3sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
