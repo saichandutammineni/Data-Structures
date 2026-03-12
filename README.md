@@ -50,6 +50,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0127-word-ladder) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
