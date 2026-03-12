@@ -1,25 +1,29 @@
 class Solution {
-    private void getPermutations(List<List<Integer>> res, List<Integer> ll,boolean[] used, int[] nums){
-        if(ll.size()==nums.length){
-            res.add(new ArrayList<>(ll));
+    private void swap(int[] nums, int i, int j){
+        int temp=nums[j];
+        nums[j]=nums[i];
+        nums[i]=temp;
+    }
+    private void getPermutations(List<List<Integer>> res, int index, int[] nums){
+        if(index==nums.length){
+            List<Integer> ll=new ArrayList<>();
+            for(int num:nums){
+                ll.add(num);
+            }
+            res.add(ll);
             return;
         }
 
-        for(int i=0;i<nums.length;i++){
-            if(used[i]==false){
-                used[i]=true;
-                ll.add(nums[i]);
-                getPermutations(res, ll, used, nums);
-                ll.remove(ll.size()-1);
-                used[i]=false;
-            }
+        for(int i=index;i<nums.length;i++){
+            swap(nums, index, i);
+            getPermutations(res, index+1, nums);
+            swap(nums, index , i);
         }
     }
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res=new ArrayList<>();
-        List<Integer> ll=new ArrayList<>();
-        boolean[] used=new boolean[nums.length];
-        getPermutations(res, ll, used, nums);
+        
+        getPermutations(res, 0, nums);
         return res;
     }
 }
