@@ -29,6 +29,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -46,6 +47,7 @@
 | [0015-3sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
