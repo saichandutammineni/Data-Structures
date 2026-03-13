@@ -174,4 +174,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
