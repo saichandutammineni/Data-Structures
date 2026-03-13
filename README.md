@@ -49,6 +49,7 @@
 | [0011-container-with-most-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0046-permutations) |
@@ -109,6 +110,7 @@
 | [0011-container-with-most-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
