@@ -60,6 +60,7 @@
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 ## Dynamic Programming
@@ -154,6 +155,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
+| [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 ## String Matching
 |  |
 | ------- |
