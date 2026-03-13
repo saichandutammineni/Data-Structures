@@ -63,6 +63,7 @@
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,10 +177,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0127-word-ladder) |
+| [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 ## Database
 |  |
 | ------- |
