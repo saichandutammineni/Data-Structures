@@ -8,12 +8,9 @@ class Solution {
             if(hm.containsKey(diff)){
                 count+=hm.get(diff);
             }
-            if(0==diff){
-                count++;
-            }
             hm.put(sum, hm.getOrDefault(sum, 0)+1);
         }
 
-        return count;
+        return count+hm.getOrDefault(k, 0);
     }
 }
