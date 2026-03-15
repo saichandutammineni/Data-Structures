@@ -51,7 +51,6 @@ class Solution {
                 for(int[] dir: dirs){
                     int ni=i+dir[0];
                     int nj=j+dir[1];
-                    System.out.println(ni+"ni"+nj+"nj");
                     if(ni<m && nj<n && grid[ni][nj]=='1'){
                         int idx2=ni * n+nj;
                         if(union(idx, idx2, parent, rank)){
