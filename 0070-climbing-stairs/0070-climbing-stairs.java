@@ -1,15 +1,14 @@
 class Solution {
     private int calculate(int curr, int n, int[] dp){
-        if(curr<0) return 0;
         if(dp[curr]!=-1){
             return dp[curr];
         }
+        for(int i=2;i<=n;i++){
+            dp[i]=dp[i-1]+dp[i-2];
+        }
 
-        
-
-        dp[curr]=calculate(curr-1, n, dp)+calculate(curr-2, n, dp);
+        //dp[curr]=calculate(curr-1, n, dp)+calculate(curr-2, n, dp);
         return dp[curr];
-        
     }
     public int climbStairs(int n) {
         int[] dp=new int[n+1];
