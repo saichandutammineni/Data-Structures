@@ -173,16 +173,19 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -220,4 +223,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0207-course-schedule) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
