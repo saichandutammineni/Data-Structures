@@ -1,10 +1,8 @@
 class Node{
-    //char ch;
     Node[] next;
     boolean isEnd;
 
     Node(){
-       // this.ch=ch;
         this.isEnd=false;
         this.next=new Node[26];
     }
