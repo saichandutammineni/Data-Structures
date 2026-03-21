@@ -1,34 +1,54 @@
-class Solution {
-    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
-        Arrays.sort(products, ((a,b)-> a.compareTo(b)));
-        List<List<String>> res=new ArrayList<>();
-        char[] arr=searchWord.toCharArray();
-        for(int i=0;i<arr.length;i++){
-            String curr=searchWord.substring(0, i+1);
-            int l=0, r=products.length-1;
-            while(l<=r){
-                int m=l+(r-l)/2;
-                if(products[m].startsWith(curr) && (m==0 || (m>0 && !products[m-1].startsWith(curr)))){
-                    int temp=3;
-                    List<String> ll=new ArrayList<>(temp);
-                    while(temp-->0 && m<products.length && products[m].startsWith(curr)){
-                        ll.add(products[m++]);
-                    }
-                    res.add(ll);
-                    break;
+class TrieNode{
+    boolean isEnd;
+    TrieNode[] next;
+    List<String> ll;
 
-                }
-                else if(products[m].compareTo(curr)>0){
-                    r=m-1;
-                }
-                else{
-                    l=m+1;
-                }
+    public TrieNode(){
+        this.isEnd=false;
+        this.next=new TrieNode[26];
+        this.ll=new ArrayList<>(3);
+    }
+
+}
+
+
+
+class Solution {
+
+    private void insert(String s, TrieNode tr){
+        TrieNode ptr=tr;
+        for(int i=0;i<s.length();i++){
+            if(ptr.next[s.charAt(i)-'a']==null){
+                ptr.next[s.charAt(i)-'a']=new TrieNode(); 
             }
-            if(res.size()!=i+1){
-                res.add(new ArrayList<>());
+
+            ptr=ptr.next[s.charAt(i)-'a'];
+            if(ptr.ll.size()<3){
+                ptr.ll.add(s);
             }
         }
+    }
+    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
+        Arrays.sort(products);
+        List<List<String>> res=new ArrayList<>();
+        TrieNode tr=new TrieNode();
+        for(String s: products){
+            insert(s, tr);
+        }
+        TrieNode temp=tr;
+        for(int i=0;i<searchWord.length();i++){
+            if(temp.next[searchWord.charAt(i)-'a']!=null){
+            res.add(temp.next[searchWord.charAt(i)-'a'].ll);
+            temp=temp.next[searchWord.charAt(i)-'a'];
+            }
+            else{
+                break;
+            }
+        }
+        while(res.size()<searchWord.length()){
+            res.add(new ArrayList<>());
+        }
+        
         return res;
     }
 }
