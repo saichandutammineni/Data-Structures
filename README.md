@@ -31,6 +31,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0696-count-binary-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0696-count-binary-substrings) |
 | [0953-verifying-an-alien-dictionary](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
+| [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0015-3sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0056-merge-intervals) |
+| [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +180,7 @@
 | [0035-search-insert-position](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## String Matching
 |  |
 | ------- |
@@ -238,4 +243,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
