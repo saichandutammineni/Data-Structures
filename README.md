@@ -199,6 +199,7 @@
 | [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,12 +209,14 @@
 | [0200-number-of-islands](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
