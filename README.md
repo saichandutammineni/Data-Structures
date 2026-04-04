@@ -28,6 +28,7 @@
 | [0020-valid-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0127-word-ladder) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0070-climbing-stairs) |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
