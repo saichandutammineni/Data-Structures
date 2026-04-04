@@ -175,6 +175,7 @@
 | [0009-palindrome-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
