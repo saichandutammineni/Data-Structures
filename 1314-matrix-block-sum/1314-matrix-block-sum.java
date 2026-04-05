@@ -4,39 +4,14 @@ class Solution {
         int[][] dp=new int[m][n];
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                // pf+=mat[i][j];
-
-                // if(i>0 && j>0 && j<n-1){
-                //     dp[i][j]=pf-dp[i-1][j+1]+dp[i-1][j];
-                // }
-                // else if(j==0 && i>0){
-                //     dp[i][j]=pf-dp[i-1][n-1]+dp[i-1][j];
-                // }
-                // else{
-                //     dp[i][j]=pf;
-                // }
-
-                dp[i][j] = mat[i][j]
-                    + (i > 0 ? dp[i-1][j] : 0)
-                    + (j > 0 ? dp[i][j-1] : 0)
-                    - (i > 0 && j > 0 ? dp[i-1][j-1] : 0);
+                dp[i][j] = mat[i][j]+ (i > 0 ? dp[i-1][j] : 0)+(j > 0 ? dp[i][j-1] : 0)
+                - (i > 0 && j > 0 ? dp[i-1][j-1] : 0);
             }
-
         }
-
-        // for(int i=0;i<m;i++){
-        //     for(int j=0;j<n;j++){
-        //         System.out.println(dp[i][j]);
-        //     }
-        // }
 
         int[][] res=new int[m][n];
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                // int i_r=i+k < m ? i+k : m-1;
-                // int i_l=i-k-1 >= 0 ? i-k-1 : 0;
-                // int j_down=j+k<n ? j+k : n-1;
-                // int j_up=j-k-1 >=0 ? j-k-1 : 0;
                 int i_r=Math.min(i+k,m-1);
                 int i_l=i-k-1;
                 int j_down=Math.min(j+k , n-1);
