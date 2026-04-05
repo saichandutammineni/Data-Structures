@@ -91,6 +91,7 @@
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
+| [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [0498-diagonal-traverse](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
+| [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 ## Database
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
+| [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 ## Union-Find
 |  |
 | ------- |
