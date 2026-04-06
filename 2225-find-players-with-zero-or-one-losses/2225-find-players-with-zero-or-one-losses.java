@@ -1,22 +1,28 @@
 class Solution {
     public List<List<Integer>> findWinners(int[][] matches) {
-        TreeSet<Integer> all=new TreeSet<>();
-        TreeSet<Integer> lost=new TreeSet<>();
-        HashSet<Integer> lost1More=new HashSet<>();
+        int[] lossCount=new int[100001];
 
         for(int i=0;i<matches.length;i++){
-            all.add(matches[i][1]);
-            all.add(matches[i][0]);
+            if(lossCount[matches[i][0]]==0)
+            lossCount[matches[i][0]]=-1;
 
-            if(!lost.add(matches[i][1])){
-                lost1More.add(matches[i][1]);
-            }
+            if(lossCount[matches[i][1]]==-1)
+                lossCount[matches[i][1]]=1;
+            
+            else
+                lossCount[matches[i][1]]++;
+        }
+
+        List<Integer> noLoss=new ArrayList<>();
+        List<Integer> oneLoss=new ArrayList<>();
+
+        for(int i=0;i<lossCount.length;i++){
+            if(lossCount[i]==-1) noLoss.add(i);
+            if(lossCount[i]==1) oneLoss.add(i);
         }
         List<List<Integer>> res=new ArrayList<>(2);
-        all.removeAll(lost);
-        res.add(new ArrayList<>(all));
-        lost.removeAll(lost1More);
-        res.add(new ArrayList<>(lost));
+        res.add(noLoss);
+        res.add(oneLoss);
         return res;
     }
 }
