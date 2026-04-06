@@ -15,6 +15,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -76,6 +77,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
@@ -157,6 +159,7 @@
 | [0015-3sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## Stack
