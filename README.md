@@ -95,6 +95,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
@@ -234,6 +235,7 @@
 | [0035-search-insert-position](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## String Matching
