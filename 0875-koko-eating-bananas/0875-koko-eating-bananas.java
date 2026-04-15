@@ -10,14 +10,10 @@ class Solution {
         while(l<=r){
             int mid=l+(r-l)/2;
             
-            int time=0;
+            long time=0;
             for(int i:piles){
-                time+=Math.ceil((double)i/mid);
-                if(time>h){
-                    break;
-                }
+                time+=((i-1)/mid)+1;
             }
-
             
             if(time>h){
                 l=mid+1;
