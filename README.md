@@ -105,6 +105,7 @@
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
+| [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
@@ -184,6 +185,7 @@
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
+| [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Stack
 |  |
@@ -292,6 +294,7 @@
 | [0498-diagonal-traverse](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
+| [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 ## Database
 |  |
