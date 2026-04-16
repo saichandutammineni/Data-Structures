@@ -16,6 +16,8 @@ class Solution {
 
     public long countFairPairs(int[] nums, int lower, int upper) {
         Arrays.sort(nums);
+        // taking no.of pairs making sum<upper 
+        // taking no.of pairs making sum<lower-1, subtract these two
 
         return countAtMost(nums, upper)-countAtMost(nums, lower-1);
     }
