@@ -9,7 +9,7 @@ class Solution {
             min=Math.min(Math.min(nums[i],0), min+nums[i]);
 
 
-            res=Math.max(res, Math.max(Math.abs(max), Math.abs(min)));
+            res=Math.max(res, Math.max(max, min*-1));
         }
         return res;
     }
