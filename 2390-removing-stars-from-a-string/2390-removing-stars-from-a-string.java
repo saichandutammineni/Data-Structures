@@ -6,7 +6,7 @@ class Solution {
         while(i<s.length()){
             char t=s.charAt(i++);
             if(t=='*'){
-                sb.deleteCharAt(sb.length()-1);
+                sb.setLength(sb.length() - 1);
             }
             else{
                 sb.append(t);
