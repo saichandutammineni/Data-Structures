@@ -1,29 +1,29 @@
 class Solution {
-    // private char getPartner(char ch){
-    //     switch(ch){
-    //         case ')': return '(';
-    //         case '}': return '{';
-    //         case '[': return ']';
-    //         default: return '';
-    //     }
-    // }
     public boolean isValid(String s) {
-        ArrayDeque<Character> q=new ArrayDeque<>();
-        HashMap<Character, Character> hm=new HashMap<>();
-        hm.put(')', '(');
-        hm.put('}', '{');
-        hm.put(']', '[');
-
-        for(int i=0;i<s.length();i++){
-            if(!hm.containsKey(s.charAt(i))){
-                q.addFirst(s.charAt(i));
+        if(s.length()%2==1) return false;
+        
+        StringBuilder sb=new StringBuilder();
+        int i=0;
+        while(i<s.length()){
+            char t=s.charAt(i++);
+            if(t=='(' || t=='{' || t=='['){
+                sb.append(t);
+            
+            }
+            else if(sb.length()==0){
+                return false;
             }
             else{
-                if(q.size()==0 || q.removeFirst()!=hm.get(s.charAt(i))){
-                    return false;
+                char r=sb.charAt(sb.length()-1);
+                if((r=='(' && t==')') || (r=='{' && t=='}') || (r=='[' && t==']') ){
+                    sb.deleteCharAt(sb.length()-1);
                 }
+                else{
+                    return false;
+                } 
             }
         }
-        return q.size()==0;
+
+        return sb.length()==0;
     }
 }
