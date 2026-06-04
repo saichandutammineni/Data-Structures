@@ -1,11 +1,11 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        ArrayDeque<String> ar=new ArrayDeque<String>();
+        ArrayDeque<Integer> ar=new ArrayDeque<Integer>();
 
         for(int i=0;i<tokens.length;i++){
             if(tokens[i].equals("*") || tokens[i].equals("+") || tokens[i].equals("-") || tokens[i].equals("/")){
-                int a=Integer.valueOf(ar.removeFirst());
-                int b=Integer.valueOf(ar.removeFirst());
+                int a=ar.removeFirst();
+                int b=ar.removeFirst();
                 switch (tokens[i]) {
                     case "*":
                         a=b*a;
@@ -21,13 +21,13 @@ class Solution {
                         break;
                     
                 }
-                ar.addFirst(a+"");
+                ar.addFirst(a);
             }
             else{
-                ar.addFirst(tokens[i]);
+                ar.addFirst(Integer.valueOf(tokens[i]));
             }
         }
 
-        return Integer.valueOf(ar.removeFirst());
+        return ar.removeFirst();
     }
 }
