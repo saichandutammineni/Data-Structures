@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Doubly-Linked List
@@ -214,6 +215,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0155-min-stack) |
 | [2390-removing-stars-from-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
