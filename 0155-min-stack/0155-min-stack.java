@@ -1,40 +1,35 @@
 class Node{
     int val;
     int min;
-    Node next, front;
+    Node next;
 
-    Node(int val, int min){
+    Node(int val, int min, Node top){
         this.val=val;
         this.min=min;
-        this.next=null;
-        this.front=null;
+        this.next=top;
     }
 }
 
 class MinStack {
-    Node head, curr;
+    Node curr;
     
 
     public MinStack() {
-        head=new Node(0, Integer.MAX_VALUE);
-        curr=head;
+        curr=null;
     }
     
     public void push(int value) {
-        
-        Node temp=new Node(value, Math.min(value, curr.min));
-        curr.next=temp;
-        temp.front=curr;
-        curr=temp;
-        
+        if(curr==null){
+            curr=new Node(value, value, null);
+        }
+        else{
+            Node temp=new Node(value, Math.min(value, curr.min),curr);
+            curr=temp;
+        }
     }
     
     public void pop() {
-        Node temp=curr;
-        
-        curr=curr.front;
-        curr.next=null;
-        temp.front=null;
+        curr=curr.next;
     }
     
     public int top() {
