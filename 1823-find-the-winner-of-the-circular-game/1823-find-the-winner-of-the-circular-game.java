@@ -9,6 +9,6 @@ class Solution {
             temp=(temp+k)%i; // i is the size of problem set while constructing from size 2 to n
 
         }
-        return temp+1;
+        return temp+1; // index i will have node value of i+1
     }
 }
