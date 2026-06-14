@@ -21,6 +21,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -106,6 +107,7 @@
 | [0503-next-greater-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0641-design-circular-deque](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0641-design-circular-deque) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -211,6 +213,7 @@
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
@@ -274,6 +277,7 @@
 | [0011-container-with-most-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
@@ -383,6 +387,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## Randomized
@@ -403,6 +408,7 @@
 | [0229-majority-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
 |  |
