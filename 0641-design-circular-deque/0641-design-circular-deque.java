@@ -64,13 +64,11 @@ class MyCircularDeque {
     }
     
     public boolean isEmpty() {
-        if(size==0) return true;
-        else return false;
+        return size==0;
     }
     
     public boolean isFull() {
-        if(size==cap) return true;
-        else return false;
+        return size==cap;
     }
 }
 
