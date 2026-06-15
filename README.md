@@ -127,6 +127,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
@@ -199,6 +200,7 @@
 | [0283-move-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0696-count-binary-substrings) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -390,6 +392,7 @@
 | [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Randomized
 |  |
 | ------- |
@@ -402,6 +405,7 @@
 | [0735-asteroid-collision](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Counting
 |  |
 | ------- |
