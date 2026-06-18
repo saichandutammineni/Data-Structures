@@ -115,6 +115,7 @@
 | [0735-asteroid-collision](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
@@ -169,6 +170,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
@@ -303,6 +305,7 @@
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -373,6 +376,7 @@
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 ## Union-Find
@@ -399,6 +403,7 @@
 | [0347-top-k-frequent-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [1383-maximum-performance-of-a-team](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1383-maximum-performance-of-a-team) |
@@ -461,10 +466,12 @@
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0641-design-circular-deque) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
