@@ -126,6 +126,7 @@
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1383-maximum-performance-of-a-team](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
@@ -230,6 +231,7 @@
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1383-maximum-performance-of-a-team](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -295,6 +297,7 @@
 | [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [1383-maximum-performance-of-a-team](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
