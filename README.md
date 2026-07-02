@@ -291,6 +291,7 @@
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2591-distribute-money-to-maximum-children](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 ## Recursion
 |  |
 | ------- |
@@ -317,6 +318,7 @@
 | [1754-largest-merge-of-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2591-distribute-money-to-maximum-children](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 ## Binary Search
 |  |
 | ------- |
