@@ -43,6 +43,7 @@
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0127-word-ladder) |
+| [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -98,6 +99,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0217-contains-duplicate) |
@@ -229,6 +231,7 @@
 | [0015-3sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -305,6 +308,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
