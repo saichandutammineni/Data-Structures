@@ -97,6 +97,7 @@
 | [0118-pascals-triangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
@@ -310,6 +311,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0611-valid-triangle-number) |
