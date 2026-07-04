@@ -126,6 +126,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
@@ -223,6 +224,7 @@
 | [0611-valid-triangle-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0696-count-binary-substrings) |
+| [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [1754-largest-merge-of-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -242,6 +244,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
@@ -316,6 +319,7 @@
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [1383-maximum-performance-of-a-team](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1405-longest-happy-string) |
