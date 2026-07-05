@@ -58,6 +58,7 @@
 | [2182-construct-string-with-repeat-limit](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2390-removing-stars-from-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 ## Memoization
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [2182-construct-string-with-repeat-limit](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2591-distribute-money-to-maximum-children](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
+| [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Binary Search
 |  |
