@@ -24,6 +24,7 @@
 | [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
+| [0874-walking-robot-simulation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0954-array-of-doubled-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0954-array-of-doubled-pairs) |
@@ -128,6 +129,7 @@
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0874-walking-robot-simulation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -478,6 +480,7 @@
 | [0289-game-of-life](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
