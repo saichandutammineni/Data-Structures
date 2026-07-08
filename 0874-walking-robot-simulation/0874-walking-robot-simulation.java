@@ -1,4 +1,7 @@
 class Solution {
+    private long encode(int x, int y){
+        return (long)x*60001+y;
+    }
     private int changeDirs(int len, int curr, int i){
         if(i==-1){
             if(curr+1<len){
@@ -20,10 +23,10 @@ class Solution {
     public int robotSim(int[] commands, int[][] obstacles) {
         int[][] dirs={{-1,0}, {0,1}, {1,0}, {0, -1}};
 
-        HashSet<String> obs=new HashSet<>();
+        HashSet<Long> obs=new HashSet<>();
         int x=0, y=0, index=1, res=0;
         for(int[] arr: obstacles){
-            obs.add(arr[0]+" "+arr[1]);
+            obs.add(encode(arr[0], arr[1]));
         }
         
         for(int i:commands){
@@ -38,7 +41,7 @@ class Solution {
                 while(steps-->0){
                     int x2=x+x1, y2=y+y1;
 
-                    if(obs.contains(x2+" "+y2))
+                    if(obs.contains(encode(x2, y2)))
                         break;
                     
                     x=x2;
