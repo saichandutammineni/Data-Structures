@@ -155,6 +155,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Dynamic Programming
@@ -391,6 +392,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
+| [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
@@ -422,6 +425,7 @@
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
+| [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 ## Database
 |  |
@@ -489,6 +493,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Counting
 |  |
 | ------- |
