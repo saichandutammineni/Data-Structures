@@ -209,6 +209,7 @@
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0641-design-circular-deque](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0641-design-circular-deque) |
+| [0725-split-linked-list-in-parts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0725-split-linked-list-in-parts) |
 ## Design
 |  |
 | ------- |
