@@ -208,6 +208,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0148-sort-list) |
 | [0641-design-circular-deque](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0725-split-linked-list-in-parts) |
 ## Design
@@ -232,6 +233,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -247,6 +249,7 @@
 | [0015-3sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0229-majority-element-ii) |
@@ -508,11 +511,13 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
