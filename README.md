@@ -74,6 +74,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1219-path-with-maximum-gold](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
@@ -148,6 +149,7 @@
 | [0954-array-of-doubled-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1094-car-pooling) |
+| [1219-path-with-maximum-gold](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
@@ -442,6 +444,7 @@
 | [0289-game-of-life](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
