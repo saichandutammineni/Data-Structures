@@ -8,10 +8,10 @@ class Solution {
         int temp=grid[x][y];
         int[][] arr={{1,0}, {0,1}, {-1,0}, {0, -1}};
         for(int i=0;i<arr.length;i++){
-            
-            if(x+arr[i][0]>=0 && x+arr[i][0]<grid.length && y+arr[i][1]>=0 && y+arr[i][1]<grid[0].length && grid[x+arr[i][0]][y+arr[i][1]]!=0){
+            int x1=x+arr[i][0], y1=y+arr[i][1];
+            if(x1>=0 && x1<grid.length && y1>=0 && y1<grid[0].length && grid[x1][y1]!=0){
                 grid[x][y]=0;
-                findWays(grid, x+arr[i][0], y+arr[i][1], gold);
+                findWays(grid, x1, y1, gold);
                 grid[x][y]=temp;
                 isEnd=false;
             }
