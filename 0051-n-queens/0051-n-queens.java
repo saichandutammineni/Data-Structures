@@ -1,36 +1,37 @@
 class Solution {
-    private void findWays(List<List<String>> res, HashSet<Integer> md, HashSet<Integer> ad, HashSet<Integer> cols, int x, int y, List<String> ll, StringBuffer sb){
+    private void findWays(List<List<String>> res, HashSet<Integer> md, HashSet<Integer> ad, HashSet<Integer> cols, int x, List<String> ll, StringBuffer sb){
         if(x==sb.length()){
             if(cols.size()==sb.length())
                 res.add(new ArrayList<>(ll));
             return;
         }
         
-        
-        if((!cols.contains(y) && !md.contains(x-y) && !ad.contains(x+y))){
-            cols.add(y);
-            ad.add(x+y);
-            md.add(x-y);
-            sb.setCharAt(y, 'Q');
-            ll.add(sb.toString());
-            sb.setCharAt(y, '.');
+        for(int i=0;i<sb.length();i++){
+            if((!cols.contains(i) && !md.contains(x-i) && !ad.contains(x+i))){
+                cols.add(i);
+                ad.add(x+i);
+                md.add(x-i);
+                sb.setCharAt(i, 'Q');
+                ll.add(sb.toString());
+                sb.setCharAt(i, '.');
+                
+                findWays(res, md, ad, cols, x+1, ll, sb);
+                
+                cols.remove(i);
+                ll.remove(ll.size()-1);
+                ad.remove(x+i);
+                md.remove(x-i);
             
-            findWays(res, md, ad, cols, x+1, 0, ll, sb);
-            
-            cols.remove(y);
-            ll.remove(ll.size()-1);
-            ad.remove(x+y);
-            md.remove(x-y);
-          
-            
+                
+            }
         }
 
-        if(y!=sb.length()-1){
-            findWays(res, md, ad, cols, x, y+1, ll, sb);
-        }
-        else{
-            findWays(res, md, ad, cols, x+1, 0, ll, sb);
-        }
+        // if(y!=sb.length()-1){
+        //     findWays(res, md, ad, cols, x, y+1, ll, sb);
+        // }
+        // else{
+        //     findWays(res, md, ad, cols, x+1, 0, ll, sb);
+        // }
     }
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> res=new ArrayList<>();
@@ -42,7 +43,7 @@ class Solution {
             sb.append('.');
         }
         List<String> ll=new ArrayList<>();
-        findWays(res, md, ad, cols, 0, 0, ll, sb);
+        findWays(res, md, ad, cols, 0, ll, sb);
         return res;
     }
 }
