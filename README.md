@@ -67,6 +67,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0401-binary-watch) |
@@ -97,6 +98,7 @@
 | [0046-permutations](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0056-merge-intervals) |
