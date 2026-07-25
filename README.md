@@ -75,6 +75,7 @@
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1219-path-with-maximum-gold](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
@@ -82,6 +83,7 @@
 | [0401-binary-watch](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Array
 |  |
@@ -159,6 +161,7 @@
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -575,4 +578,8 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Enumeration
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
