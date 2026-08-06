@@ -44,6 +44,7 @@
 | [0032-longest-valid-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
@@ -186,6 +187,7 @@
 | [0055-jump-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
