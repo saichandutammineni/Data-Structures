@@ -594,4 +594,12 @@
 |  |
 | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
