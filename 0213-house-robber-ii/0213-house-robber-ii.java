@@ -7,13 +7,14 @@ class Solution {
 
     private int solve(int[] nums, int start, int end){
         if(end==start) return nums[start];
-        int[] dp=new int[nums.length];
-        dp[end]=nums[end];
-        dp[end-1]=Math.max(dp[end],nums[end-1]);
+        int prev=nums[end];
+        int max=Math.max(prev,nums[end-1]);
         for(int i=end-2;i>=start;i--){
-            dp[i]=Math.max(nums[i]+dp[i+2], dp[i+1]);
+            int temp=Math.max(nums[i]+prev, max);
+            prev=max;
+            max=temp;
         }
 
-        return dp[start];
+        return max;
     }
 }
