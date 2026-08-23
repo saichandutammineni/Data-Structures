@@ -9,15 +9,15 @@ class Solution {
         
         int n=nums.length;
         if(n==1) return nums[0];
-        int[] dp1=new int[n];
-        int[] dp2=new int[n];
-        Arrays.fill(dp1, -1);
-        Arrays.fill(dp2, -1);
+        int[] dp=new int[n];
+        
+        Arrays.fill(dp, -1);
+        
         int temp=nums[n-1];
         
-        int a=solve(dp1, nums, 1);
+        int a=solve(dp, nums, 1);
         nums[n-1]=0;
-        //dp[n-1]=0;
-        return Math.max(a, nums[0]+solve(dp2, nums, 2));
+        Arrays.fill(dp, -1);
+        return Math.max(a, nums[0]+solve(dp, nums, 2));
     }
 }
