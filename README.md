@@ -119,6 +119,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0217-contains-duplicate) |
@@ -194,6 +195,7 @@
 | [0120-triangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
