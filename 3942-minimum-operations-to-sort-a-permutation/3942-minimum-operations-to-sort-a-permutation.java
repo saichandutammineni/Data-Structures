@@ -3,30 +3,28 @@ class Solution {
         boolean isIncreasing=true, isDecreasing=true;
         int n=nums.length, idx0=0;
 
-        boolean drop=false;
+        boolean dropi=false, dropd=false;
         for(int i=0;i<n;i++){
             if(nums[i]>nums[(i+1)%n]){
-                if(drop){
+                if(dropi){
                     isIncreasing=false;
                     // break;
                 }
-                drop=true;
+                dropi=true;
+            }
+
+            if(nums[i]<nums[(i+1)%n]){
+                if(dropd){
+                    isDecreasing=false;
+                    // break;
+                }
+                dropd=true;
             }
 
             if(nums[i]==0) idx0=i;
         }
 
-        drop=false;
-        for(int i=0;i<n;i++){
-            if(nums[i]<nums[(i+1)%n]){
-                if(drop){
-                    isDecreasing=false;
-                    break;
-                }
-                drop=true;
-            }
-            
-        }
+        
 
         if(!isDecreasing && !isIncreasing) return -1;
         int inc=Integer.MAX_VALUE, dec=Integer.MAX_VALUE;
