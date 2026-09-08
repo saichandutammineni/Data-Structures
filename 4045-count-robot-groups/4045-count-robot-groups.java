@@ -20,10 +20,11 @@ class Solution {
                     break;
                 }
 
-                double time=(position[j]-position[i]-distance)/(speed[i]-speed[j]);
+                double time=(double)(position[j]-position[i]-distance)/(speed[i]-speed[j]);
 
-                if(time<mergeTime[j]){
+                if(time<=mergeTime[j]){
                     merges=true;
+                    mergeTime[i]=time;
                     break;
                 }
 
