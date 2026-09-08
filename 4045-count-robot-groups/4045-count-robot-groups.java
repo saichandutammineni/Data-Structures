@@ -1,17 +1,40 @@
 class Solution {
     public int countGroups(int[] position, int[] speed, int distance) {
-        int group=1, n=position.length, currPos=n-1;
+        int n=position.length;
+        int[] stack=new int[n];
+        double[] mergeTime=new double[n];
+        mergeTime[n-1]=Double.POSITIVE_INFINITY;
 
+        int top=n;
+        stack[--top]=n-1;
         for(int i=n-2;i>=0;i--){
-            if(speed[currPos]<speed[i] || position[i+1]-position[i]<=distance){
-                continue;
+            boolean merges=false;
+            while(top<n){
+                int j=stack[top];
+                if(position[i+1]-position[i]<=distance){
+                    merges=true;
+                    break;
+                }
+                else if(speed[i]<=speed[j]){
+                    merges=false;
+                    break;
+                }
+
+                double time=(position[j]-position[i]-distance)/(speed[i]-speed[j]);
+
+                if(time<mergeTime[j]){
+                    merges=true;
+                    break;
+                }
+
+                top++;
             }
 
-            group++;
-            currPos=i;
-
+            if(merges) continue;
+            stack[--top]=i;
+            mergeTime[i] = Double.POSITIVE_INFINITY;
         }
 
-        return group;
+        return n-top;
     }
 }
