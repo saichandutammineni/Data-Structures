@@ -184,6 +184,7 @@
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -223,6 +224,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Memoization
 |  |
 | ------- |
@@ -623,6 +625,7 @@
 | [0279-perfect-squares](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -637,4 +640,8 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
