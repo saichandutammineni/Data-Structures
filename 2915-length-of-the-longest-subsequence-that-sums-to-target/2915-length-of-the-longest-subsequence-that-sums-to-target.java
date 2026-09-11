@@ -5,10 +5,10 @@ class Solution {
         int[] dp=new int[target+1];
         for(int i=1;i<target+1;i++) dp[i]=-1;
         
-        for(int j=0;j<n;j++){
-            for(int i=target;i>=nums.get(j);i--){
-                if(dp[i-nums.get(j)]!=-1){
-                    dp[i]=Math.max(dp[i], 1+dp[i-nums.get(j)]);
+        for(int num: nums){
+            for(int i=target;i>=num;i--){
+                if(dp[i-num]!=-1){
+                    dp[i]=Math.max(dp[i], 1+dp[i-num]);
                 }
             }
         }
