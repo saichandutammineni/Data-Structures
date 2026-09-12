@@ -184,6 +184,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -225,6 +226,7 @@
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Memoization
@@ -491,6 +493,7 @@
 | [1314-matrix-block-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
 | [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 ## Database
 |  |
