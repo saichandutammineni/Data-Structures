@@ -1,64 +1,31 @@
-class TrieNode{
-    boolean isEnd;
-    TrieNode[] next;
-
-    TrieNode(){
-        this.isEnd=false;
-        this.next=new TrieNode[26];
-    } 
-}
-
-
-
 class Solution {
-    private void insert(String s, TrieNode tr){
-        TrieNode ptr=tr;
-        for(int i=0;i<s.length();i++){
-            if(ptr.next[s.charAt(i)-'a']==null){
-                ptr.next[s.charAt(i)-'a']=new TrieNode();
-            }
-
-            ptr=ptr.next[s.charAt(i)-'a'];
-
+    private int solve(String s, Integer[] dp, HashSet<String> set, StringBuilder sb, int index){
+        if(index==s.length()){
+            if(sb.length()==0) return 1;
+            else return 0;
         }
-        ptr.isEnd=true;
-    }
+        if(dp[index]!=null) return dp[index];
 
-    private boolean dfs(String s, int index, TrieNode root, Boolean[] dp) {
-        if (index == s.length()) return true;
-
-        if (dp[index] != null) return dp[index];
-
-        TrieNode ptr = root;
-
-        for (int i = index; i < s.length(); i++) {
-            char c = s.charAt(i);
-
-            if (ptr.next[c - 'a'] == null) {
-                break;
+        int i=index;
+        int temp=0;
+        while(i<s.length()){
+            sb.append(s.charAt(i++));
+            if(set.contains(sb.toString())){
+                temp |= solve(s, dp, set, new StringBuilder(""), i);
+                if(temp==1) break;
             }
-
-            ptr = ptr.next[c - 'a'];
-
-            if (ptr.isEnd) {
-                if (dfs(s, i + 1, root, dp)) {
-                    return dp[index] = true;
-                }
-            }
+            
         }
-
-        return dp[index] = false;
+        return dp[index]=temp;
     }
-
     public boolean wordBreak(String s, List<String> wordDict) {
-        TrieNode tr=new TrieNode();
-        for(String str: wordDict){
-            insert(str, tr);
-        }
+        HashSet<String> set=new HashSet<>();
+        StringBuilder sb=new StringBuilder("");
 
-        TrieNode ptr=tr;
-        
-        Boolean[] dp=new Boolean[s.length()];
-        return dfs(s, 0,ptr, dp);
+        for(String s1: wordDict){
+            set.add(s1);
+        }
+        Integer[] dp=new Integer[s.length()];
+        return solve(s, dp, set, sb, 0)==1 ? true : false;
     }
 }
