@@ -13,6 +13,7 @@
 | [0127-word-ladder](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@
 | [0079-word-search](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -119,6 +121,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
@@ -209,6 +212,7 @@
 | [0118-pascals-triangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0213-house-robber-ii) |
@@ -240,6 +244,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -358,6 +363,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 ## Math
@@ -659,4 +665,8 @@
 |  |
 | ------- |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
