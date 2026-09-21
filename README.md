@@ -137,6 +137,7 @@
 | [0289-game-of-life](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0456-132-pattern) |
@@ -222,6 +223,7 @@
 | [0279-perfect-squares](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0343-integer-break) |
+| [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
@@ -651,6 +653,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
@@ -670,6 +673,7 @@
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Brute-Force Search
 |  |
