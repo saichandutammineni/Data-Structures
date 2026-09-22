@@ -196,6 +196,7 @@
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -245,6 +246,7 @@
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
 |  |
@@ -569,6 +571,7 @@
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [2182-construct-string-with-repeat-limit](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Randomized
 |  |
 | ------- |
@@ -636,11 +639,13 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Game Theory
 |  |
 | ------- |
