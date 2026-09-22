@@ -1,25 +1,19 @@
 class Solution {
-    private int solve(int[] prices, Integer[][] dp, int index, int bought){
-        if(index==prices.length || bought>=prices.length-1){
-            return 0;
-        }
-
-        if(dp[index][bought]!=null){
-            return dp[index][bought];
-        }
-
-        int temp=0;
-        if(bought>=index){
-            temp=Math.min(prices[index]+solve(prices, dp, index+1, index+index+1), solve(prices, dp, index+1, bought));
-        }
-        else{
-            temp=prices[index]+solve(prices, dp, index+1, index+index+1);
-        }
-        return dp[index][bought]=temp;
-    }
     public int minimumCoins(int[] prices) {
-        Integer[][] dp=new Integer[prices.length][prices.length];
+        int[] dp=new int[prices.length+1];
 
-        return prices[0]+solve(prices, dp, 1, 1);
+        ArrayDeque<Integer> dq=new ArrayDeque<>();
+        for(int i=0;i<prices.length;i++){
+            if(!dq.isEmpty() && 2*dq.getFirst()+1<i){
+                dq.removeFirst();
+            }
+
+            while(!dq.isEmpty() && dp[dq.getLast()]+prices[dq.getLast()]>=dp[i]+prices[i]){
+                dq.removeLast();
+            }
+            dq.addLast(i);
+            dp[i+1]=dp[dq.getFirst()]+prices[dq.getFirst()];
+        }
+        return dp[prices.length];
     }
 }
