@@ -161,6 +161,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0874-walking-robot-simulation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
@@ -234,6 +235,7 @@
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -395,6 +397,7 @@
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
+| [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -654,6 +657,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Enumeration
 |  |
@@ -694,8 +698,10 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
