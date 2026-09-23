@@ -55,6 +55,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0472-concatenated-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
@@ -232,6 +233,7 @@
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
