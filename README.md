@@ -136,6 +136,7 @@
 | [0229-majority-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -225,6 +226,7 @@
 | [0213-house-robber-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -449,6 +451,7 @@
 | [0069-sqrtx](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0456-132-pattern) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
@@ -706,4 +709,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
