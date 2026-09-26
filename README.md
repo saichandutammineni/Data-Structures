@@ -30,6 +30,7 @@
 | [0904-fruit-into-baskets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0954-array-of-doubled-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0954-array-of-doubled-pairs) |
+| [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2182-construct-string-with-repeat-limit](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -60,6 +61,7 @@
 | [0696-count-binary-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [1405-longest-happy-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1405-longest-happy-string) |
@@ -173,6 +175,7 @@
 | [0954-array-of-doubled-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
@@ -242,6 +245,7 @@
 | [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
+| [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -318,6 +322,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -343,6 +348,7 @@
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0912-sort-an-array) |
 | [0954-array-of-doubled-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0954-array-of-doubled-pairs) |
+| [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
 | [1094-car-pooling](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [1329-sort-the-matrix-diagonally](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1329-sort-the-matrix-diagonally) |
