@@ -163,6 +163,7 @@
 | [0641-design-circular-deque](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0641-design-circular-deque) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0752-open-the-lock) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -250,6 +251,7 @@
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
@@ -441,6 +443,7 @@
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [0954-array-of-doubled-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0954-array-of-doubled-pairs) |
