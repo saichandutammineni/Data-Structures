@@ -230,6 +230,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -490,6 +491,7 @@
 | [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -500,6 +502,7 @@
 | [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -513,6 +516,7 @@
 | [0098-validate-binary-search-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -731,4 +735,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
