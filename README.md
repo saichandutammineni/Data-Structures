@@ -64,6 +64,7 @@
 | [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1405-longest-happy-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1405-longest-happy-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1754-largest-merge-of-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1754-largest-merge-of-two-strings) |
@@ -260,6 +261,7 @@
 | [1143-longest-common-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
