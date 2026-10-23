@@ -196,6 +196,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -267,6 +268,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
@@ -374,6 +376,7 @@
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -742,6 +745,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 ## DP on Trees
 |  |
 | ------- |
