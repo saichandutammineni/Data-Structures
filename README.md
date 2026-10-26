@@ -283,6 +283,7 @@
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
