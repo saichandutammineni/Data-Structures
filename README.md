@@ -211,6 +211,7 @@
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
@@ -282,6 +283,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -723,6 +725,7 @@
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
+| [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
@@ -775,4 +778,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Multiple Knapsack
+|  |
+| ------- |
+| [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 <!---LeetCode Topics End-->
