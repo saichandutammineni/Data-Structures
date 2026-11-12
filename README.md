@@ -149,6 +149,7 @@
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -254,6 +255,7 @@
 | [0343-integer-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
