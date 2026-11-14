@@ -57,6 +57,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0696-count-binary-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0696-count-binary-substrings) |
@@ -157,6 +158,7 @@
 | [0436-find-right-interval](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
@@ -262,6 +264,7 @@
 | [0435-non-overlapping-intervals](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
@@ -732,6 +735,7 @@
 | [0279-perfect-squares](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -753,6 +757,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Brute-Force Search
 |  |
