@@ -204,6 +204,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -666,6 +667,7 @@
 | [0735-asteroid-collision](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1094-car-pooling) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
