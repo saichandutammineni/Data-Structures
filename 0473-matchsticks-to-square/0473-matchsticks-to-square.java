@@ -7,7 +7,7 @@ class Solution {
         if(top>side || down>side || left>side || right>side){
             return false;
         }
-        if(index==arr.length) return false;
+        if(index<0) return false;
 
         boolean ans=false;
         ans|=match(arr, index-1, top+arr[index],down,left,right, side);
