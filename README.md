@@ -209,6 +209,7 @@
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -296,6 +297,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
@@ -411,6 +413,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
