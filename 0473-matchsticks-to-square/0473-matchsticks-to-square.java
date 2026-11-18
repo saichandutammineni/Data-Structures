@@ -10,9 +10,13 @@ class Solution {
         if(index<0) return false;
 
         boolean ans=false;
+        if(top+arr[index]<=side)
         ans|=match(arr, index-1, top+arr[index],down,left,right, side);
+        if(down+arr[index]<=side)
         ans|=match(arr, index-1, top,down+arr[index],left,right, side);
+        if(left+arr[index]<=side)
         ans|=match(arr, index-1, top,down,left+arr[index],right, side);
+        if(right+arr[index]<=side)
         ans|=match(arr, index-1, top,down,left,right+arr[index], side);
 
         return ans;
