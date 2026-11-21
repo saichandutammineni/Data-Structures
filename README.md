@@ -198,6 +198,7 @@
 | [0994-rotting-oranges](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
@@ -292,6 +293,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -760,6 +762,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
@@ -781,6 +784,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0474-ones-and-zeroes) |
+| [1049-last-stone-weight-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Brute-Force Search
 |  |
