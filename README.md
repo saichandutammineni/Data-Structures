@@ -102,6 +102,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Array
 |  |
@@ -220,6 +221,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
@@ -304,6 +306,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
@@ -328,6 +331,7 @@
 | [0464-can-i-win](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Sliding Window
 |  |
@@ -381,6 +385,7 @@
 | [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1754-largest-merge-of-two-strings) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -418,6 +423,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2952-minimum-number-of-coins-to-be-added) |
@@ -539,6 +545,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String Matching
 |  |
@@ -729,6 +736,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0456-132-pattern) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Queue
 |  |
 | ------- |
@@ -822,4 +830,8 @@
 |  |
 | ------- |
 | [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
