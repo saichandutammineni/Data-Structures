@@ -2,7 +2,7 @@ class Solution {
     int ans=Integer.MAX_VALUE;
 
     private void solve(int[] jobs, long[] workers, int index){
-        if(index==jobs.length){
+        if(index<0){
             ans=Math.min(ans, (int)Arrays.stream(workers).max().getAsLong());
             return;
         }
@@ -15,15 +15,15 @@ class Solution {
             seen.add(workers[i]);
             workers[i]+=(long)jobs[index];
 
-            solve(jobs, workers, index+1);
+            solve(jobs, workers, index-1);
 
             workers[i]-=(long)jobs[index];
         }
     }
     public int minimumTimeRequired(int[] jobs, int k) {
         
-        
-        solve(jobs, new long[k], 0);
+        Arrays.sort(jobs);
+        solve(jobs, new long[k], jobs.length-1);
         return ans==Integer.MAX_VALUE ? Arrays.stream(jobs).sum() : ans;
     }
 }
