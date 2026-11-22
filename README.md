@@ -93,6 +93,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1219-path-with-maximum-gold](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
@@ -103,6 +104,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Array
@@ -218,6 +220,7 @@
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -307,6 +310,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
@@ -333,6 +337,7 @@
 | [0464-can-i-win](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 ## Sliding Window
