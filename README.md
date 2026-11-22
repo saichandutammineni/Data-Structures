@@ -234,6 +234,7 @@
 | [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2596-check-knight-tour-configuration](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2742-painting-the-walls](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2742-painting-the-walls) |
 | [2906-construct-product-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -318,6 +319,7 @@
 | [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2742-painting-the-walls](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2742-painting-the-walls) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
