@@ -273,6 +273,7 @@
 | [0198-house-robber](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -481,6 +482,7 @@
 | [0070-climbing-stairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0233-number-of-digit-one](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -506,6 +508,7 @@
 | [0044-wildcard-matching](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
+| [0233-number-of-digit-one](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
