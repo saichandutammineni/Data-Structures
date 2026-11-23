@@ -324,6 +324,7 @@
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2742-painting-the-walls](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2742-painting-the-walls) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -499,6 +500,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2591-distribute-money-to-maximum-children](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
