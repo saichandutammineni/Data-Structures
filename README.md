@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0020-valid-parentheses) |
@@ -244,6 +245,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
@@ -500,6 +502,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
