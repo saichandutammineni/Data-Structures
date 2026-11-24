@@ -133,6 +133,7 @@
 | [0074-search-a-2d-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -257,6 +258,7 @@
 | [0064-minimum-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0097-interleaving-string) |
@@ -447,6 +449,7 @@
 | [0032-longest-valid-parentheses](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -460,6 +463,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Trie
@@ -627,6 +631,7 @@
 | [0064-minimum-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0289-game-of-life) |
