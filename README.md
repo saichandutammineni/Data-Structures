@@ -59,6 +59,7 @@
 | [0139-word-break](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0472-concatenated-words) |
@@ -585,6 +586,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0214-shortest-palindrome) |
 ## Tree
 |  |
 | ------- |
@@ -876,4 +878,24 @@
 | [0278-first-bad-version](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
