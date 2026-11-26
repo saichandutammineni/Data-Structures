@@ -405,6 +405,7 @@
 | [0696-count-binary-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0881-boats-to-save-people) |
 | [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1754-largest-merge-of-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1754-largest-merge-of-two-strings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -507,6 +508,7 @@
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -575,6 +577,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0981-time-based-key-value-store) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1268-search-suggestions-system](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1268-search-suggestions-system) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -872,4 +875,5 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
