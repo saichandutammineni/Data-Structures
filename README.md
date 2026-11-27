@@ -317,6 +317,7 @@
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -513,6 +514,7 @@
 | [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
@@ -826,6 +828,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0062-unique-paths) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2063-vowels-of-all-substrings) |
 ## Longest Common Subsequence
