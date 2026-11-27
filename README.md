@@ -320,6 +320,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1626-best-team-with-no-conflicts](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1626-best-team-with-no-conflicts) |
+| [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1696-jump-game-vi](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1696-jump-game-vi) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -512,6 +513,7 @@
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2591-distribute-money-to-maximum-children](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -821,6 +823,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0062-unique-paths) |
+| [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 ## Longest Common Subsequence
 |  |
 | ------- |
