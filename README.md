@@ -337,6 +337,7 @@
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
@@ -522,6 +523,7 @@
 | [2063-vowels-of-all-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2591-distribute-money-to-maximum-children](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
@@ -831,6 +833,7 @@
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2063-vowels-of-all-substrings) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## Longest Common Subsequence
 |  |
 | ------- |
