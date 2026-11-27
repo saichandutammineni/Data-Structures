@@ -309,6 +309,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
+| [0920-number-of-music-playlists](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0920-number-of-music-playlists) |
 | [0931-minimum-falling-path-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1048-longest-string-chain) |
@@ -514,6 +515,7 @@
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0910-smallest-range-ii) |
+| [0920-number-of-music-playlists](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0920-number-of-music-playlists) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1363-largest-multiple-of-three](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1363-largest-multiple-of-three) |
@@ -830,6 +832,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [2063-vowels-of-all-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2063-vowels-of-all-substrings) |
