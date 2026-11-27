@@ -77,6 +77,7 @@
 | [1405-longest-happy-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1405-longest-happy-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1754-largest-merge-of-two-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1754-largest-merge-of-two-strings) |
+| [2063-vowels-of-all-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2390-removing-stars-from-a-string](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -325,6 +326,7 @@
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2063-vowels-of-all-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2305-fair-distribution-of-cookies](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2585-number-of-ways-to-earn-points](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2585-number-of-ways-to-earn-points) |
@@ -515,6 +517,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2063-vowels-of-all-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2591-distribute-money-to-maximum-children](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -824,6 +827,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/1641-count-sorted-vowel-strings) |
+| [2063-vowels-of-all-substrings](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2063-vowels-of-all-substrings) |
 ## Longest Common Subsequence
 |  |
 | ------- |
