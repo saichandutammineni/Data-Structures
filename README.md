@@ -510,6 +510,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
@@ -727,6 +728,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0470-implement-rand10-using-rand7](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 ## Simulation
 |  |
@@ -914,4 +916,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0214-shortest-palindrome) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
