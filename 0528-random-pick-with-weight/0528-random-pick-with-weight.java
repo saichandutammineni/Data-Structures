@@ -1,43 +1,34 @@
 class Solution {
-    //HashMap<Integer, Integer> hm=new HashMap<>();
-    List<Integer> cumulatedList=new ArrayList<>();
-    int prefixSum=0;
-    Random rand = new Random();
-    private int findMapper(int target){
-        int l=0, r=cumulatedList.size()-1;
-        while(l<=r){
-            int mid=(l+r)/2;
-            if((mid==0 && cumulatedList.get(mid)>=target) || (cumulatedList.get(mid)>=target && cumulatedList.get(mid-1)<target)){
-                return mid;
-            }
-            else if(cumulatedList.get(mid)<target){
-                l=mid+1;
-            }
-            else{
-                r=mid-1;
-            }
-        }
-        // return (l+r)/2;
-        return -1;
-    }
+    List<Integer> ll=new ArrayList<>();
+    Random rd=new Random();
+
     public Solution(int[] w) {
+        int sum=0;
         
-        for(int i=0;i<w.length;i++){
-            prefixSum+=w[i];
-            //hm.put(prefixSum, i);
-            //System.out.println(prefixSum+" "+i);
-            cumulatedList.add(prefixSum);
+        for(int i:w){
+            sum+=i;
+            ll.add(sum);
         }
     }
     
     public int pickIndex() {
-        if(cumulatedList.size()>0){
-            int randomPickIndex=rand.nextInt(prefixSum)+1;
-            return findMapper(randomPickIndex);
+        int target=rd.nextInt(ll.get(ll.size()-1))+1;
+
+        int l=0, r=ll.size();
+        while(l<r){
+            int mid=l+(r-l)/2;
+            // if(ll.get(mid)==target || ((mid==0 || ll.get(mid-1)<target) && ll.get(mid)>=target)){
+            //     break;
+            // }
+            if(ll.get(mid)>=target){
+                r=mid;
+            }
+            else{
+                l=mid+1;
+            }
         }
-        else{
-            return 0;
-        }
+        
+        return l;
     }
 }
 
