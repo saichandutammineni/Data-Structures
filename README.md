@@ -181,6 +181,7 @@
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0494-target-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -512,6 +513,7 @@
 | [0464-can-i-win](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
 | [0486-predict-the-winner](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0486-predict-the-winner) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0509-fibonacci-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0877-stone-game](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0877-stone-game) |
@@ -583,6 +585,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0456-132-pattern) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0611-valid-triangle-number](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -682,6 +685,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -729,6 +733,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0470-implement-rand10-using-rand7](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0528-random-pick-with-weight) |
 ## Simulation
 |  |
@@ -787,6 +792,7 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0456-132-pattern) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/saichandutammineni/DSA-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Queue
 |  |
@@ -924,4 +930,8 @@
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0470-implement-rand10-using-rand7) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/saichandutammineni/DSA-Solutions/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
